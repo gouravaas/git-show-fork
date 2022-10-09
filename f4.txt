@@ -1,1 +1,2 @@
 make new text file f4.txt
+Now this text file is modified text file
